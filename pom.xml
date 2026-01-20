@@ -17,6 +17,9 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<properties>
+			<sonar.organization>harshrao-dot</sonar.organization>
+		</properties>
 	</properties>
 
 	<dependencies>
